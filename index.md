@@ -1,4 +1,7 @@
 ## Welcome to GitHub Pages
+Welcome to josef1983josef's homepage!
+Description : Feel free to bookmark this to keep an eye on my project updates”
+
 I am Yousef and I welcome everyone to my page.
 You can use the [editor on GitHub](https://github.com/Yousef83/josef1983josef.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
